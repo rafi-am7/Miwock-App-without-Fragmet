@@ -1,10 +1,10 @@
 # Miwock with fragment - Android Mobile App
-"Miwock" is a name of language. In the [udacity course](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) they presented an app which translates miwock language to English (including pronounciation).
-In our app we will build an app which will help to translate Bangla to English (including pronounciation).
+'Miwock' is a name of language. In this [udacity course](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839), they presented an app which translates Miwock to English (including pronounciation).
+In our app we will build an app which will help to translate Bengali to English (including pronounciation).
 
 ## Goals
-* To translate Bangla to English
-* To teach pronounciation 
+* To translate Bengali to English
+* To teach right pronounciation 
 
 ## Tools 
 * Viewpager
